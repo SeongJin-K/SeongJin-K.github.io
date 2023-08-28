@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching Experience | Seongjin (Justin) Kim</title>
+    <title>Teaching | Seongjin (Justin) Kim</title>
     <link>https://seongjinkim.com/teaching/</link>
       <atom:link href="https://seongjinkim.com/teaching/index.xml" rel="self" type="application/rss+xml" />
-    <description>Teaching Experience</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <description>Teaching</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://seongjinkim.com/media/icon_hu61e982188ca3cc99bd1a569d37da2970_22573_512x512_fill_lanczos_center_3.png</url>
-      <title>Teaching Experience</title>
+      <title>Teaching</title>
       <link>https://seongjinkim.com/teaching/</link>
     </image>
+    
+    <item>
+      <title>Job Market Paper</title>
+      <link>https://seongjinkim.com/teaching/instructor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://seongjinkim.com/teaching/instructor/</guid>
+      <description>&lt;h3 id=&#34;money--capital-markets-finc381-texas-am-university&#34;&gt;Money &amp;amp; Capital Markets, FINC381, Texas A&amp;amp;M University&lt;/h3&gt;
+&lt;p&gt;(Fall 2023)&lt;/p&gt;
+&lt;details&gt;
+  &lt;summary&gt;
+    Course Description
+  &lt;/summary&gt;
+  &lt;p&gt;This course examines money, financial markets, and financial institutions. The first half of the course covers interest rates, the Federal Reserve, monetary policy, and financial crises. The second half explores financial markets, financial instruments, banking, and other relevant topics. This course demands analytical thinking and the application of economic concepts.&lt;/p&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;survey-of-finance-principles-finc409-texas-am-university&#34;&gt;Survey of Finance Principles, FINC409, Texas A&amp;amp;M University&lt;/h3&gt;
+&lt;p&gt;(Spring, Summer, Fall 2021)&lt;/p&gt;
+&lt;details&gt;
+  &lt;summary&gt;
+    Course Description
+  &lt;/summary&gt;
+  &lt;p&gt;FINC 409 introduces key principles of finance to non-business majors. This course may not be used to satisfy degree requirements for majors in business or agribusiness. Topics covered include financial statement analysis, corporate financial management, time value of money, financial markets and institutions; bond and stock valuation; and capital budgeting.&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teaching Assistant</title>
+      <link>https://seongjinkim.com/teaching/ta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://seongjinkim.com/teaching/ta/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;FINC 443/605 Valuation&lt;/strong&gt;
+(Instructor: Prof. Shane Johnson): Fall 2018 − Fall 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FINC 443/605 Investments&lt;/strong&gt;
+(Instructor: Prof. Philipp Illeditsch): Fall 2018 − Fall 2021
+(Instructor: Prof. Marco Rossi): Fall 2018 − Fall 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FINC 443/605 Valuation&lt;/strong&gt;
+(Instructor: Prof. Shane Johnson): Fall 2018 − Fall 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FINC 443/605 Valuation&lt;/strong&gt;
+(Instructor: Prof. Shane Johnson): Fall 2018 − Fall 2021&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

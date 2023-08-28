@@ -30,6 +30,10 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://seongjinkim.com/teaching/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://seongjinkim.com/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -126,9 +130,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://seongjinkim.com/cv/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://seongjinkim.com/teaching/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
